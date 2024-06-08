@@ -7,4 +7,5 @@ XYZ company aimed to promote a song on YouTube. To achieve this, they obtained a
 <br> * Number of characters used in the most-listened-to tracks.
 <br> * Number of words in the track.
 <br> * Best words to use.
-<br> * The Jupyter notebook inside this repository demonstrates the step-by-step process and the answers obtained.
+<br>
+<br> The Jupyter notebook inside this repository demonstrates the step-by-step process and the answers obtained.
