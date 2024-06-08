@@ -1,4 +1,4 @@
-<img src=youtube.jpg" alt="reviews" width="1200" height="400">
+<img src="youtube.jpg" alt="reviews" width="1200" height="400">
 
 XYZ company aimed to promote a song on YouTube. To achieve this, they obtained a YouTube database with the most-listened-to artists and tracks in recent times and asked me to answer three questions:
 
